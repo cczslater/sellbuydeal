@@ -1,0 +1,640 @@
+node:internal/modules/package_json_reader:92
+        throw error;
+        ^
+
+SyntaxError: Error parsing /home/sellbuyd/SBDapp/package.json: Unexpected string in JSON at position 766
+    at parse (<anonymous>)
+    at read (node:internal/modules/package_json_reader:79:16)
+    at readPackage (node:internal/modules/package_json_reader:140:10)
+    at Object.readPackageScope (node:internal/modules/package_json_reader:157:19)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1388:35)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15) {
+  path: '/home/sellbuyd/SBDapp/package.json'
+}
+
+Node.js v18.20.8
+node:internal/modules/package_json_reader:92
+        throw error;
+        ^
+
+SyntaxError: Error parsing /home/sellbuyd/SBDapp/package.json: Unexpected string in JSON at position 766
+    at parse (<anonymous>)
+    at read (node:internal/modules/package_json_reader:79:16)
+    at readPackage (node:internal/modules/package_json_reader:140:10)
+    at Object.readPackageScope (node:internal/modules/package_json_reader:157:19)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1388:35)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15) {
+  path: '/home/sellbuyd/SBDapp/package.json'
+}
+
+Node.js v18.20.8
+node:internal/modules/package_json_reader:92
+        throw error;
+        ^
+
+SyntaxError: Error parsing /home/sellbuyd/SBDapp/package.json: Unexpected string in JSON at position 766
+    at parse (<anonymous>)
+    at read (node:internal/modules/package_json_reader:79:16)
+    at readPackage (node:internal/modules/package_json_reader:140:10)
+    at Object.readPackageScope (node:internal/modules/package_json_reader:157:19)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1388:35)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15) {
+  path: '/home/sellbuyd/SBDapp/package.json'
+}
+
+Node.js v18.20.8
+node:internal/modules/package_json_reader:92
+        throw error;
+        ^
+
+SyntaxError: Error parsing /home/sellbuyd/SBDapp/package.json: Unexpected string in JSON at position 766
+    at parse (<anonymous>)
+    at read (node:internal/modules/package_json_reader:79:16)
+    at readPackage (node:internal/modules/package_json_reader:140:10)
+    at Object.readPackageScope (node:internal/modules/package_json_reader:157:19)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1388:35)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15) {
+  path: '/home/sellbuyd/SBDapp/package.json'
+}
+
+Node.js v18.20.8
+ ⨯ Failed to start server
+Error: listen EADDRINUSE: address already in use :::3000
+    at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+    at new Promise (<anonymous>) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+ ⨯ Failed to start server
+Error: listen EADDRINUSE: address already in use :::3000
+    at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+    at new Promise (<anonymous>) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+ ⨯ Failed to start server
+Error: listen EADDRINUSE: address already in use :::3000
+    at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+    at new Promise (<anonymous>) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+ ⨯ Failed to start server
+Error: listen EADDRINUSE: address already in use :::3000
+    at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+    at new Promise (<anonymous>) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+ ⨯ Failed to start server
+Error: listen EADDRINUSE: address already in use :::3000
+    at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+    at new Promise (<anonymous>) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+ ⨯ Failed to start server
+Error: listen EADDRINUSE: address already in use :::3000
+    at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+    at new Promise (<anonymous>) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+ ⨯ Failed to start server
+Error: listen EADDRINUSE: address already in use :::3000
+    at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+    at new Promise (<anonymous>) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+ ⨯ Failed to start server
+Error: listen EADDRINUSE: address already in use :::3000
+    at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+    at new Promise (<anonymous>) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+ ⨯ Failed to start server
+Error: listen EADDRINUSE: address already in use :::3000
+    at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+    at new Promise (<anonymous>) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+ ⨯ Failed to start server
+Error: listen EADDRINUSE: address already in use :::3000
+    at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+    at new Promise (<anonymous>) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+ ⨯ Failed to start server
+Error: listen EADDRINUSE: address already in use :::3000
+    at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+    at new Promise (<anonymous>) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+ ⨯ Failed to start server
+Error: listen EADDRINUSE: address already in use :::3000
+    at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+    at new Promise (<anonymous>) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+ ⨯ Failed to start server
+Error: listen EADDRINUSE: address already in use :::3000
+    at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+    at new Promise (<anonymous>) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+ ⨯ Failed to start server
+Error: listen EADDRINUSE: address already in use :::3000
+    at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+    at new Promise (<anonymous>) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+ ⨯ Failed to start server
+Error: listen EADDRINUSE: address already in use :::3000
+    at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+    at new Promise (<anonymous>) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+ ⨯ Failed to start server
+Error: listen EADDRINUSE: address already in use :::3000
+    at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+    at new Promise (<anonymous>) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+ ⨯ Failed to start server
+Error: listen EADDRINUSE: address already in use :::3000
+    at <unknown> (Error: listen EADDRINUSE: address already in use :::3000)
+    at new Promise (<anonymous>) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+
+thread '<unnamed>' panicked at /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rayon-core-1.12.1/src/registry.rs:168:10:
+The global thread pool has not been initialized.: ThreadPoolBuildError { kind: IOError(Os { code: 11, kind: WouldBlock, message: "Resource temporarily unavailable" }) }
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+
+thread '<unnamed>' panicked at /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rayon-core-1.12.1/src/registry.rs:168:10:
+The global thread pool has not been initialized.: ThreadPoolBuildError { kind: GlobalPoolAlreadyInitialized }
+fatal runtime error: failed to initiate panic, error 5
+Next.js build worker exited with code: null and signal: SIGABRT
+
+thread '<unnamed>' panicked at /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rayon-core-1.12.1/src/registry.rs:168:10:
+The global thread pool has not been initialized.: ThreadPoolBuildError { kind: IOError(Os { code: 11, kind: WouldBlock, message: "Resource temporarily unavailable" }) }
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+
+thread '<unnamed>' panicked at /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rayon-core-1.12.1/src/registry.rs:168:10:
+The global thread pool has not been initialized.: ThreadPoolBuildError { kind: GlobalPoolAlreadyInitialized }
+fatal runtime error: failed to initiate panic, error 5
+Next.js build worker exited with code: null and signal: SIGABRT
+
+thread '<unnamed>' panicked at /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rayon-core-1.12.1/src/registry.rs:168:10:
+The global thread pool has not been initialized.: ThreadPoolBuildError { kind: IOError(Os { code: 11, kind: WouldBlock, message: "Resource temporarily unavailable" }) }
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+
+thread '<unnamed>' panicked at /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rayon-core-1.12.1/src/registry.rs:168:10:
+The global thread pool has not been initialized.: ThreadPoolBuildError { kind: GlobalPoolAlreadyInitialized }
+fatal runtime error: failed to initiate panic, error 5
+Next.js build worker exited with code: null and signal: SIGABRT
+
+thread '<unnamed>' panicked at /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rayon-core-1.12.1/src/registry.rs:168:10:
+The global thread pool has not been initialized.: ThreadPoolBuildError { kind: IOError(Os { code: 11, kind: WouldBlock, message: "Resource temporarily unavailable" }) }
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+
+thread '<unnamed>' panicked at /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rayon-core-1.12.1/src/registry.rs:168:10:
+The global thread pool has not been initialized.: ThreadPoolBuildError { kind: GlobalPoolAlreadyInitialized }
+fatal runtime error: failed to initiate panic, error 5
+Next.js build worker exited with code: null and signal: SIGABRT
+
+thread '<unnamed>' panicked at /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rayon-core-1.12.1/src/registry.rs:168:10:
+The global thread pool has not been initialized.: ThreadPoolBuildError { kind: IOError(Os { code: 11, kind: WouldBlock, message: "Resource temporarily unavailable" }) }
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+
+thread '<unnamed>' panicked at /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rayon-core-1.12.1/src/registry.rs:168:10:
+The global thread pool has not been initialized.: ThreadPoolBuildError { kind: GlobalPoolAlreadyInitialized }
+fatal runtime error: failed to initiate panic, error 5
+Next.js build worker exited with code: null and signal: SIGABRT
+
+thread '<unnamed>' panicked at /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rayon-core-1.12.1/src/registry.rs:168:10:
+The global thread pool has not been initialized.: ThreadPoolBuildError { kind: IOError(Os { code: 11, kind: WouldBlock, message: "Resource temporarily unavailable" }) }
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+
+thread '<unnamed>' panicked at /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rayon-core-1.12.1/src/registry.rs:168:10:
+The global thread pool has not been initialized.: ThreadPoolBuildError { kind: GlobalPoolAlreadyInitialized }
+fatal runtime error: failed to initiate panic, error 5
+Next.js build worker exited with code: null and signal: SIGABRT
+
+thread '<unnamed>' panicked at /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rayon-core-1.12.1/src/registry.rs:168:10:
+The global thread pool has not been initialized.: ThreadPoolBuildError { kind: IOError(Os { code: 11, kind: WouldBlock, message: "Resource temporarily unavailable" }) }
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+
+thread '<unnamed>' panicked at /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rayon-core-1.12.1/src/registry.rs:168:10:
+The global thread pool has not been initialized.: ThreadPoolBuildError { kind: GlobalPoolAlreadyInitialized }
+fatal runtime error: failed to initiate panic, error 5
+Next.js build worker exited with code: null and signal: SIGABRT
+
+thread '<unnamed>' panicked at /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rayon-core-1.12.1/src/registry.rs:168:10:
+The global thread pool has not been initialized.: ThreadPoolBuildError { kind: IOError(Os { code: 11, kind: WouldBlock, message: "Resource temporarily unavailable" }) }
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+
+thread '<unnamed>' panicked at /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rayon-core-1.12.1/src/registry.rs:168:10:
+The global thread pool has not been initialized.: ThreadPoolBuildError { kind: GlobalPoolAlreadyInitialized }
+fatal runtime error: failed to initiate panic, error 5
+Next.js build worker exited with code: null and signal: SIGABRT
+
+thread '<unnamed>' panicked at /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rayon-core-1.12.1/src/registry.rs:168:10:
+The global thread pool has not been initialized.: ThreadPoolBuildError { kind: IOError(Os { code: 11, kind: WouldBlock, message: "Resource temporarily unavailable" }) }
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+
+thread '<unnamed>' panicked at /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rayon-core-1.12.1/src/registry.rs:168:10:
+The global thread pool has not been initialized.: ThreadPoolBuildError { kind: GlobalPoolAlreadyInitialized }
+fatal runtime error: failed to initiate panic, error 5
+Next.js build worker exited with code: null and signal: SIGABRT
+
+thread '<unnamed>' panicked at /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rayon-core-1.12.1/src/registry.rs:168:10:
+The global thread pool has not been initialized.: ThreadPoolBuildError { kind: IOError(Os { code: 11, kind: WouldBlock, message: "Resource temporarily unavailable" }) }
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+
+thread '<unnamed>' panicked at /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rayon-core-1.12.1/src/registry.rs:168:10:
+The global thread pool has not been initialized.: ThreadPoolBuildError { kind: GlobalPoolAlreadyInitialized }
+fatal runtime error: failed to initiate panic, error 5
+Next.js build worker exited with code: null and signal: SIGABRT
+
+thread '<unnamed>' panicked at /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rayon-core-1.12.1/src/registry.rs:168:10:
+The global thread pool has not been initialized.: ThreadPoolBuildError { kind: IOError(Os { code: 11, kind: WouldBlock, message: "Resource temporarily unavailable" }) }
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+
+thread '<unnamed>' panicked at /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rayon-core-1.12.1/src/registry.rs:168:10:
+The global thread pool has not been initialized.: ThreadPoolBuildError { kind: GlobalPoolAlreadyInitialized }
+fatal runtime error: failed to initiate panic, error 5
+Next.js build worker exited with code: null and signal: SIGABRT
+
+thread '<unnamed>' panicked at /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rayon-core-1.12.1/src/registry.rs:168:10:
+The global thread pool has not been initialized.: ThreadPoolBuildError { kind: IOError(Os { code: 11, kind: WouldBlock, message: "Resource temporarily unavailable" }) }
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+
+thread '<unnamed>' panicked at /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rayon-core-1.12.1/src/registry.rs:168:10:
+The global thread pool has not been initialized.: ThreadPoolBuildError { kind: GlobalPoolAlreadyInitialized }
+fatal runtime error: failed to initiate panic, error 5
+Next.js build worker exited with code: null and signal: SIGABRT
+
+thread '<unnamed>' panicked at /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rayon-core-1.12.1/src/registry.rs:168:10:
+The global thread pool has not been initialized.: ThreadPoolBuildError { kind: IOError(Os { code: 11, kind: WouldBlock, message: "Resource temporarily unavailable" }) }
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+
+thread '<unnamed>' panicked at /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rayon-core-1.12.1/src/registry.rs:168:10:
+The global thread pool has not been initialized.: ThreadPoolBuildError { kind: GlobalPoolAlreadyInitialized }
+fatal runtime error: failed to initiate panic, error 5
+/home/sellbuyd/nodevenv/SBDapp/18/bin/node: fork: retry: Resource temporarily unavailable
+/home/sellbuyd/nodevenv/SBDapp/18/bin/node: fork: retry: Resource temporarily unavailable
+/home/sellbuyd/nodevenv/SBDapp/18/bin/node: fork: retry: Resource temporarily unavailable
+Next.js build worker exited with code: null and signal: SIGABRT
+
+thread '<unnamed>' panicked at /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rayon-core-1.12.1/src/registry.rs:168:10:
+The global thread pool has not been initialized.: ThreadPoolBuildError { kind: IOError(Os { code: 11, kind: WouldBlock, message: "Resource temporarily unavailable" }) }
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+
+thread '<unnamed>' panicked at /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rayon-core-1.12.1/src/registry.rs:168:10:
+The global thread pool has not been initialized.: ThreadPoolBuildError { kind: GlobalPoolAlreadyInitialized }
+fatal runtime error: failed to initiate panic, error 5
+Next.js build worker exited with code: null and signal: SIGABRT
+
+thread '<unnamed>' panicked at /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rayon-core-1.12.1/src/registry.rs:168:10:
+The global thread pool has not been initialized.: ThreadPoolBuildError { kind: IOError(Os { code: 11, kind: WouldBlock, message: "Resource temporarily unavailable" }) }
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+
+thread '<unnamed>' panicked at /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rayon-core-1.12.1/src/registry.rs:168:10:
+The global thread pool has not been initialized.: ThreadPoolBuildError { kind: GlobalPoolAlreadyInitialized }
+fatal runtime error: failed to initiate panic, error 5
+Next.js build worker exited with code: null and signal: SIGABRT
+
+thread '<unnamed>' panicked at /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rayon-core-1.12.1/src/registry.rs:168:10:
+The global thread pool has not been initialized.: ThreadPoolBuildError { kind: IOError(Os { code: 11, kind: WouldBlock, message: "Resource temporarily unavailable" }) }
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+
+thread '<unnamed>' panicked at /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rayon-core-1.12.1/src/registry.rs:168:10:
+The global thread pool has not been initialized.: ThreadPoolBuildError { kind: GlobalPoolAlreadyInitialized }
+fatal runtime error: failed to initiate panic, error 5
+Next.js build worker exited with code: null and signal: SIGABRT
+
+thread '<unnamed>' panicked at /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rayon-core-1.12.1/src/registry.rs:168:10:
+The global thread pool has not been initialized.: ThreadPoolBuildError { kind: IOError(Os { code: 11, kind: WouldBlock, message: "Resource temporarily unavailable" }) }
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+
+thread '<unnamed>' panicked at /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rayon-core-1.12.1/src/registry.rs:168:10:
+The global thread pool has not been initialized.: ThreadPoolBuildError { kind: GlobalPoolAlreadyInitialized }
+fatal runtime error: failed to initiate panic, error 5
+Next.js build worker exited with code: null and signal: SIGABRT
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
+sh: next: command not found
