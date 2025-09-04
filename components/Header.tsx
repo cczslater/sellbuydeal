@@ -63,11 +63,11 @@ export default function Header() {
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center space-x-8">
             <Link href="/" className="flex items-center">
-            <img 
-  src="/sbdlogorsz1.png"  <!-- ✅ correct quotes -->
-  alt="SellbuyDeal Logo" 
-  className="h-10 w-auto"
-/>
+import Logo from '../public/sbdlogorsz1.png';
+
+<Link href="/" className="flex items-center">
+  <img src={Logo} alt="SellbuyDeal Logo" className="h-10 w-auto" />
+</Link>
 
 
             </Link>
