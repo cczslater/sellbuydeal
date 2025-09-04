@@ -64,8 +64,8 @@ export default function Header() {
           <div className="flex items-center space-x-8">
             <Link href="/" className="flex items-center">
               <img 
-                src="https://static.readdy.ai/image/bb0d13c218f42a008c0d02bcafa2e2fe/8d1459ee78c57e6563140773fddfbd4c.png" 
-                alt="MegaMarketplace Logo" 
+                src=/sbdlogorsz1.png" 
+                alt="SellbuyDeal Logo" 
                 className="h-10 w-auto"
               />
             </Link>
