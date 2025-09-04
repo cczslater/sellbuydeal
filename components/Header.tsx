@@ -64,10 +64,11 @@ export default function Header() {
           <div className="flex items-center space-x-8">
             <Link href="/" className="flex items-center">
               <img 
-                src=/sbdlogorsz1.png" 
-                alt="SellbuyDeal Logo" 
-                className="h-10 w-auto"
-              />
+  src="/sbdlogorsz1.png" 
+  alt="SellbuyDeal Logo" 
+  className="h-10 w-auto"
+/>
+
             </Link>
 
             <nav className="hidden lg:flex items-center space-x-8">
