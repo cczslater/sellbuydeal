@@ -64,9 +64,14 @@ export default function Header() {
           <div className="flex items-center space-x-8">
             <Link href="/" className="flex items-center">
 import Logo from '../public/sbdlogorsz1.png';
-
 <Link href="/" className="flex items-center">
-<img src="/sbdlogorsz1.png" alt="SellbuyDeal Logo" />
+  <img 
+    src="/sbdlogorsz1.png" 
+    alt="SellbuyDeal Logo" 
+    className="h-10 w-auto"
+  />
+</Link>
+
 
 
 
